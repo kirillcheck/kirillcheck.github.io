@@ -1,2 +1,2 @@
 # kirillcheck.github.io
-thirst site
+веб-разработка
