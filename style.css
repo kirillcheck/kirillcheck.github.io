@@ -1,0 +1,236 @@
+.header{
+width:1400px;
+height:90px;
+    border:2px solid rgb(240, 242, 247);
+   
+}
+
+.logo{
+    position:relative;
+    top:-60px;
+    right:-100px
+}
+
+
+.reference ul,li{
+    display:inline;
+    padding-left:50px;
+    position:relative;
+    top:-43px;
+    right:-150px;
+    color:  #343e5b;
+    font-family: Montserrat;
+
+
+}
+
+
+.logo-bucket{
+    position: relative;
+    right:-1110px;
+    top:-103px;
+}
+
+
+
+.circle{
+  width:24px;
+    height:24px;
+    border-radius:12px;
+    background-color:#e3e8f0;
+    position:relative;
+    top:-129px;
+    right:-1165px;
+    
+}
+
+
+
+.fon{
+    width:1403px;
+    height:500px;
+    background-color:#1c1e23;
+    position:relative;
+    top:-235px;
+      
+}
+
+
+.text{
+    width:461px;
+    height:65px;
+    position:relative;
+    top:-670px;
+    right:-200px;
+    color: #ffffff;
+    font-family:CrimsonText-Italic;
+    font-size:16px;
+}
+
+
+.iphone6{
+    padding-left:800px
+}
+
+
+
+.reference2{
+    width:1400px;
+    height:56px;
+    border:2px solid rgb(240, 242, 247);
+     position: relative;
+    top:-95px;
+
+}
+
+
+
+
+
+.line-reference{
+    display:inline-block;
+    position:relative;
+    top:-110px;
+    right:145px;
+}
+
+
+.dws{
+    position: relative;
+    top:-266px;
+    right:-1230px;
+    height: 21px;
+    width:70px;
+    border:3px solid rgb(228, 229, 231);
+    border-radius:11px;
+    font-size:17px;
+    text-decoration:none;
+}
+
+.butt{
+    text-decoration: none;
+    position:relative;
+    color:#000;
+    right:-11px;
+    display: block;
+   
+
+}
+
+.cart{
+    position:relative;
+    top:-290px;
+    right:-1136px
+}
+
+
+
+.button{
+    border-radius: 21px;
+background-color:  #2754eb;
+
+width: 165px;
+height: 42px;
+    position:relative;
+    top:-370px;
+    left:230px;
+    transition:all 1s;
+
+}
+
+.buy-now{
+    position:relative;
+    top:10px;
+    right:-50px;
+    color: white;
+}
+
+.button:hover{
+    cursor:pointer;
+    background:rgb(161, 168, 190);
+    
+    
+}
+
+.buy{
+    text-decoration: none;
+    color:white;
+}
+
+a{
+    text-decoration:none;
+    color:#343e5b;
+}
+
+.line-reference a{
+    color:#b9bed1;
+}
+
+
+a:hover{
+    color:rgb(52, 62, 91);
+}
+
+.text-logo{
+    width:326px;
+    height:86px;
+    position:relative;
+    bottom:710px;
+    right:-200px;
+}
+
+
+.phone{
+    font-family: Montserrat;
+color:#ffffff;
+font-size: 42px;/* Приближение из-за подстановки шрифтов */
+}
+
+
+
+.search {
+    width: 200px; /* Ширина поля с кнопкой */
+    border: 1px solid  #ffffff;; /* Параметры рамки */
+    height: 20px; /* Минимальная высота */
+    position:relative;
+    top:-230px;
+    right:-1140px
+   }
+   input[type="search"] {
+    border: none; /* Убираем рамку */
+    outline: none; /* Убираем свечение в Chrome и Safari */
+    -webkit-appearance: none; /* Убираем рамку в Chrome и Safari */
+    width: 274px; /* Ширина поля */
+    vertical-align: middle; /* Выравнивание по середине */
+   }
+   input[type="submit"] {
+       position: relative;
+    top:-17px;
+    right:30px;
+    width: 20px; /* Ширина кнопки */
+    height: 20px; /* Высота кнопки */
+    border: none; /* Убираем рамку */
+    background:url(Search%20Icon.svg) no-repeat 50% 50%; /* Параметры фона */
+   }
+
+.support{
+    position:relative;
+    top:-250px;
+    right:-1000px;
+    font-family: Montserrat;
+    color:
+}
+
+.support a,sspan{
+    color:  #b9bed1;
+    
+}
+
+
+
+
+
+
+
+
+
